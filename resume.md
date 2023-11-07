@@ -18,10 +18,17 @@ A published writer, conference speaker and a diversity and inclusion advocate.
 Background in Visual Design, Psychology, HCI and community development.
 
 ## Proficiency
-Adobe CC, Sketch, Figma, User Testing, Wireframing & Prototyping, User Research, UX, UI, Digital design, Co-creation HCD workshop leading, OSS design and community building Accessibility, Graphics, Brand and Illustration.
+User Testing, Wireframing & Prototyping, User Research, UX, UI, Digital design, Co-creation HCD workshop leading, Adobe CC, Sketch, Figma, OSS design and community building Accessibility, Graphics, Brand and Illustration.
 I’m also good at: Axure, Statistical analysis, HTML, CSS, SASS, Video editing, Photography, Animation, Advertising , Games UX/UI, Gamification, Email design/code, Agile, Marketing, Wordpress CMS.
 
 ## Employment history
+
+### Superbloom - Senior Designer and Product Manager for OSS - Sept 2021 - Present
+A remote NGO organisation focussed on designing and supporting privacy and security-focused OSS and tools.
+Primarily working on UX Research, Usability, User Centred design and UI design for human rights and internet freedom OSS tools. Product and project management as well as coaching and training OSS projects in design. 
+Line managing junior & mid-weight designers as part of my role.
+
+Notable projects include: [user-project.superbloom.design](https://user-project.superbloom.design/) and [https://sprblm.github.io/devs-guide-to/](https://sprblm.github.io/devs-guide-to/)
 
 ### Open Food Network- Lead Designer - Aug 2020 - Jul 2021
 A remote, International open source organisation working towards a sustainable, short food supply chain.
